@@ -1,0 +1,5 @@
+http://vimeo.com/34078037
+
+http://www.exoplatform.com/company/en/resource-viewer/Getting-Started-Guide/deploy-a-ruby-on-rails-app-to-heroku-with-exo-cloud-ide
+
+http://blog.dominicsayers.com/2011/01/21/howto-install-ruby-on-rails-on-windows-and-deploy-to-heroku/
